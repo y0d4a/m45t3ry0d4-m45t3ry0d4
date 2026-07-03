@@ -1,21 +1,6 @@
 <div align="center">
 
-<img
-  src="https://readme-typing-svg.demolab.com
-  ?font=Fira+Code
-  &weight=600
-  &size=28
-  &pause=1000
-  &color=00FF41
-  &center=true
-  &vCenter=true
-  &width=700
-  &lines=Security+Engineer
-  ;Application+Security
-  ;Detection+Engineering
-  ;Breaking+things+before+attackers+do"
-  alt="Typing SVG"
-/>
+
 
 <br>
 
