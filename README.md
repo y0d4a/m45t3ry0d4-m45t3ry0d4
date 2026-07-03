@@ -1,29 +1,10 @@
 <div align="center">
 
-<img
-  src="https://readme-typing-svg.demolab.com
-  ?font=Fira+Code
-  &weight=600
-  &size=28
-  &pause=1000
-  &color=00FF41
-  &center=true
-  &vCenter=true
-  &width=700
-  &lines=Security+Engineer
-  ;Application+Security
-  ;Detection+Engineering
-  ;Breaking+things+before+attackers+do"
-  alt="Typing SVG"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Security+Specialist;Application+Security;Detection+Engineering;Security+Automation;Cloud+Security" alt="Typing SVG" />
 
-<br>
+<br><br>
 
-<img
-  src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif"
-  width="500"
-  alt="Cybersecurity animation"
-/>
+<img src="(https://avatars.githubusercontent.com/u/3115997?v=4)" width="500" alt="Cybersecurity banner" />
 
 </div>
 
