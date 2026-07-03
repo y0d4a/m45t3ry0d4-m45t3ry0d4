@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="(https://avatars.githubusercontent.com/u/3115997?v=4)" width="500" alt="Cybersecurity banner" />
+<img src="https://raw.githubusercontent.com/y0d4a/m45t3ry0d4-m45t3ry0d4/main/assets/security-banner.png" width="500" alt="Cybersecurity banner" />
 
 </div>
 
@@ -15,6 +15,7 @@
 ```yaml
 name: Master Yoda
 role: Security Specialist
+
 focus:
   - Application Security
   - Detection Engineering
@@ -27,22 +28,3 @@ currently_learning:
   - Threat Detection
 
 mission: "Find weaknesses before attackers find them."
-
-
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"
-  />
-
-  <img
-    alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"
-  />
-</picture>
