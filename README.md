@@ -17,8 +17,8 @@
 ## 👾 About me
 
 ```yaml
-name: Your Name
-role: Security Engineer
+name: Master Yoda
+role: Security Specialist
 focus:
   - Application Security
   - Detection Engineering
